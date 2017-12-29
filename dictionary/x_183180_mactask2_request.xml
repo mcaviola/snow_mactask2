@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="sm_order" label="Mactask2 Request" max_length="40" name="x_183180_mactask2_request" type="collection"/>
+</database>

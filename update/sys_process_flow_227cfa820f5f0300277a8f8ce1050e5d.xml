@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_process_flow">
+    <sys_process_flow action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_183180_mactask2_task">state=3^ORstate=4^ORstate=7^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="3"/>
+            <item endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="4"/>
+            <item endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="7"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description><![CDATA[<p>MacTask2 Task State</p>]]></description>
+        <label>Complete</label>
+        <name>Complete</name>
+        <order>60</order>
+        <sys_class_name>sys_process_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-29 10:29:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>227cfa820f5f0300277a8f8ce1050e5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Complete</sys_name>
+        <sys_package display_value="MacTask2" source="x_183180_mactask2">3d5cf6420f5f0300277a8f8ce1050e76</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MacTask2">3d5cf6420f5f0300277a8f8ce1050e76</sys_scope>
+        <sys_update_name>sys_process_flow_227cfa820f5f0300277a8f8ce1050e5d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-29 10:29:14</sys_updated_on>
+        <table>x_183180_mactask2_task</table>
+    </sys_process_flow>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-29 10:29:12</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4a7cba820f5f0300277a8f8ce1050eb2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sm_m2m_group_dependency.x_183180_mactask2_dispatcher</sys_name>
+        <sys_package display_value="MacTask2" source="x_183180_mactask2">3d5cf6420f5f0300277a8f8ce1050e76</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MacTask2">3d5cf6420f5f0300277a8f8ce1050e76</sys_scope>
+        <sys_security_acl display_value="sm_m2m_group_dependency">77fa3303df2321006d907a0d3df2630d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4a7cba820f5f0300277a8f8ce1050eb2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-29 10:29:12</sys_updated_on>
+        <sys_user_role display_value="x_183180_mactask2_dispatcher" name="x_183180_mactask2_dispatcher">a65cf2820f5f0300277a8f8ce1050e9b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

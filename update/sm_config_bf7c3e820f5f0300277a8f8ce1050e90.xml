@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sm_config">
+    <sm_config action="INSERT_OR_UPDATE">
+        <accept_reject>false</accept_reject>
+        <active>true</active>
+        <admin_role display_value="x_183180_mactask2_admin" name="x_183180_mactask2_admin">ea5cf2820f5f0300277a8f8ce1050e8c</admin_role>
+        <agent_role display_value="x_183180_mactask2_agent" name="x_183180_mactask2_agent">625cf2820f5f0300277a8f8ce1050e91</agent_role>
+        <app_name>mactask2</app_name>
+        <approval>false</approval>
+        <approval_workflow display_value="Approval Workflow for SM">da95b573d7322100bbc783e80e610360</approval_workflow>
+        <approver_role display_value="x_183180_mactask2_approver_user" name="x_183180_mactask2_approver_user">a65cf2820f5f0300277a8f8ce1050e94</approver_role>
+        <associated_task_tables/>
+        <auto_dispatch>true</auto_dispatch>
+        <basic_role display_value="x_183180_mactask2_basic" name="x_183180_mactask2_basic">ea5cf2820f5f0300277a8f8ce1050e97</basic_role>
+        <catalog display_value="MacTask2 Catalog">927cfa820f5f0300277a8f8ce1050e12</catalog>
+        <created_with_version>Kingston: 11-11-2017_1422</created_with_version>
+        <disabled_processes/>
+        <dispatch_group_type display_value="mactask2_dispatch">686c76820f5f0300277a8f8ce1050eae</dispatch_group_type>
+        <dispatch_queue>false</dispatch_queue>
+        <dispatcher_role display_value="x_183180_mactask2_dispatcher" name="x_183180_mactask2_dispatcher">a65cf2820f5f0300277a8f8ce1050e9b</dispatcher_role>
+        <follow_the_sun_priority/>
+        <geolocation_maps>false</geolocation_maps>
+        <inbound_email>false</inbound_email>
+        <initiator_role display_value="x_183180_mactask2_initiator" name="x_183180_mactask2_initiator">665cf2820f5f0300277a8f8ce1050eab</initiator_role>
+        <kbase display_value="MacTask2 Knowledge">ae7cfa820f5f0300277a8f8ce1050e22</kbase>
+        <knowledge_base>true</knowledge_base>
+        <limit_by_location>true</limit_by_location>
+        <main_model_category display_value="MacTask2 Request Template">8d7c3a820f5f0300277a8f8ce1050ea5</main_model_category>
+        <main_model_table>x_183180_mactask2_request_template</main_model_table>
+        <main_state_flow_table>x_183180_mactask2_sf_request</main_state_flow_table>
+        <main_table>x_183180_mactask2_request</main_table>
+        <managed_docs>false</managed_docs>
+        <mandatory_work_notes>true</mandatory_work_notes>
+        <name>MacTask2</name>
+        <part_requirement>false</part_requirement>
+        <pdf_order_summary>false</pdf_order_summary>
+        <property_prefix>x_183180_mactask2</property_prefix>
+        <qualification>false</qualification>
+        <qualification_group_type/>
+        <qualifier_role/>
+        <read_role display_value="x_183180_mactask2_read" name="x_183180_mactask2_read">ba5cf2820f5f0300277a8f8ce1050eae</read_role>
+        <request_dispatch_method>auto</request_dispatch_method>
+        <request_dispatch_workflow display_value="Request Assignment Workflow for SM">879cca02d7100200e5eb83e80e6103fc</request_dispatch_workflow>
+        <request_driven>false</request_driven>
+        <rollup_work_notes>true</rollup_work_notes>
+        <service_catalog>true</service_catalog>
+        <signature_capture>false</signature_capture>
+        <surveys/>
+        <sys_class_name>sm_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-29 10:29:18</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>bf7c3e820f5f0300277a8f8ce1050e90</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MacTask2</sys_name>
+        <sys_package display_value="MacTask2" source="x_183180_mactask2">3d5cf6420f5f0300277a8f8ce1050e76</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MacTask2">3d5cf6420f5f0300277a8f8ce1050e76</sys_scope>
+        <sys_update_name>sm_config_bf7c3e820f5f0300277a8f8ce1050e90</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-29 10:29:18</sys_updated_on>
+        <task_activities>false</task_activities>
+        <task_dispatch_method>auto</task_dispatch_method>
+        <task_dispatch_workflow display_value="Assignment Workflow for SM">e1865971d7132100bbc783e80e610365</task_dispatch_workflow>
+        <task_model_category display_value="MacTask2 Task Template">857c3a820f5f0300277a8f8ce1050ea6</task_model_category>
+        <task_model_table>x_183180_mactask2_task_template</task_model_table>
+        <task_state_flow_table>x_183180_mactask2_sf_task</task_state_flow_table>
+        <task_table>x_183180_mactask2_task</task_table>
+        <task_work_group_type/>
+        <templates_to_catalog>true</templates_to_catalog>
+        <track_travel>false</track_travel>
+        <use_consistent_assignment>false</use_consistent_assignment>
+        <use_follow_the_sun>true</use_follow_the_sun>
+        <use_location>true</use_location>
+        <use_schedule>false</use_schedule>
+        <use_sf>true</use_sf>
+        <use_skill>all</use_skill>
+        <use_timezone>false</use_timezone>
+        <user_created>true</user_created>
+        <vendor_group_type display_value="mactask2_vendor">e86c76820f5f0300277a8f8ce1050eae</vendor_group_type>
+        <work_group_type display_value="mactask2">606c76820f5f0300277a8f8ce1050eae</work_group_type>
+    </sm_config>
+</record_update>

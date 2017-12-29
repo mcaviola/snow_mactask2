@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f86c76820f5f0300277a8f8ce1050eb8</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_group_has_role">
+    <sys_group_has_role action="INSERT_OR_UPDATE">
+        <granted_by/>
+        <group display_value="MacTask2 Dispatchers" name="MacTask2 Dispatchers">786c76820f5f0300277a8f8ce1050eb5</group>
+        <inherits>true</inherits>
+        <role display_value="x_183180_mactask2_dispatcher" name="x_183180_mactask2_dispatcher">a65cf2820f5f0300277a8f8ce1050e9b</role>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-29 10:28:49</sys_created_on>
+        <sys_id>f86c76820f5f0300277a8f8ce1050eb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-29 10:28:49</sys_updated_on>
+    </sys_group_has_role>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-29 10:29:22</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>248c7e820f5f0300277a8f8ce1050e99</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2017-12-29 11:28:49</sys_name>
+        <sys_package display_value="MacTask2" source="x_183180_mactask2">3d5cf6420f5f0300277a8f8ce1050e76</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MacTask2">3d5cf6420f5f0300277a8f8ce1050e76</sys_scope>
+        <sys_update_name>sys_metadata_link_248c7e820f5f0300277a8f8ce1050e99</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-29 10:29:22</sys_updated_on>
+        <tablename>sys_group_has_role</tablename>
+    </sys_metadata_link>
+</record_update>

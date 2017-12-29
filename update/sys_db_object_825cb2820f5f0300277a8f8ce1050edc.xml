@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Mactask2 Request</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_183180_mactask2_request</name>
+        <number_ref display_value="MR">627cfa820f5f0300277a8f8ce1050e35</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class display_value="Service Order" name="sm_order">a77c69fd0f530300277a8f8ce1050eff</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-29 10:28:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>825cb2820f5f0300277a8f8ce1050edc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Mactask2 Request</sys_name>
+        <sys_package display_value="MacTask2" source="x_183180_mactask2">3d5cf6420f5f0300277a8f8ce1050e76</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MacTask2">3d5cf6420f5f0300277a8f8ce1050e76</sys_scope>
+        <sys_update_name>sys_db_object_825cb2820f5f0300277a8f8ce1050edc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-29 10:29:13</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sf_sm_flow" label="MacTask2 Request Flow" max_length="40" name="x_183180_mactask2_sf_request" type="collection"/>
+</database>
